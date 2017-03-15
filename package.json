@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Krister-Johansson/rpio/issues"
   },
-  "homepage": "https://github.com/Krister-Johansson/rpio#readme"
+  "homepage": "https://github.com/Krister-Johansson/rpio#readme",
+  "dependencies": {
+    "mqtt": "^2.4.0"
+  }
 }
